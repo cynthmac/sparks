@@ -15633,7 +15633,7 @@ sparks.GAHelper.userVisitedTutorial = function (tutorialId) {
 (function () {
 
   sparks.activity_base_url = "sparks-activities/";
-  sparks.activity_images_base_url = "/sparks-activities/images/";
+  sparks.activity_images_base_url = "sparks-activities/images/";
   sparks.tutorial_base_url = "tutorials/";
   sparks.soundFiles = {click: "common/sounds/click.ogg"};
 
